@@ -7,7 +7,7 @@
 My name is Diego,
 
 - 👨‍🎓 Graduated in computer science from UNIOESTE (Universidade Estadual do Oeste do Paraná)
-- 💻 I currently work as a FullStack Developer at Codeflow.
+- 💻 I currently work as a Mobile Developer at UTMIfy.
 - 🚀 Flutter Enthusiast
 - ⚙️ Working in System Design UI Package for Flutter.
 
