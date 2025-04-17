@@ -9,7 +9,7 @@ My name is Diego,
 - 👨‍🎓 Graduated in computer science from UNIOESTE (Universidade Estadual do Oeste do Paraná)
 - 💻 I currently work as a Mobile Developer at UTMIfy.
 - 🚀 Flutter Enthusiast
-- ⚙️ Working in System Design UI Package for Flutter.
+- ⚙️ Working in mvvm_cli package for Flutter.
 
 ## 🤖 Technologies I use:
 <div style="display: inline_block">
